@@ -1,5 +1,15 @@
 from aoc_modules import aoc_library
 
+class Hand:
+    pass
+    # Hands have attributes and can be sorted
+
+def sort_cards(x, y, sort_tuples):
+    pass
+
+
+def sort_camel_hands(x, y):
+    pass
 
 def part1_solve(test=True):
     pass
