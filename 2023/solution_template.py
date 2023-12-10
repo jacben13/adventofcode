@@ -2,10 +2,17 @@ from aoc_modules import aoc_library
 
 
 def part1_solve(test=True):
-    pass
+    if test:
+        puzzle = aoc_library.read_input('test_input.txt')
+    else:
+        puzzle = aoc_library.read_input('input.txt')
+
 
 def part2_solve(test=True):
-    pass
+    if test:
+        puzzle = aoc_library.read_input('test_input.txt')
+    else:
+        puzzle = aoc_library.read_input('input.txt')
 
 
 def main():
