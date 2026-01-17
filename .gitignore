@@ -1,2 +1,7 @@
 # Project exclude paths
 /venv/
+/.venv/
+/aoc_modules/__pycache__/
+/aoc_modules/aoc_modules.egg-info/
+/.idea/
+/.vscode/
